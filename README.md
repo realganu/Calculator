@@ -3,14 +3,14 @@
 A clean, responsive, and feature-rich calculator built with **HTML, CSS, and JavaScript**.  
 This project goes beyond basic arithmetic and provides advanced operations, memory functions, and a user-friendly interface — making it a solid example of front-end best practices.
 
----
+
 
 ## Introduction
 The **Calculator** is designed as a modern web-based calculator that combines simplicity with powerful features. It can handle **basic arithmetic operations** (addition, subtraction, multiplication, division) as well as **advanced functions** like square root, exponentiation, percentage calculations, and memory storage.
 
 This project demonstrates **modular code organization, input validation, responsive design, and maintainable front-end architecture**. Ideal for learners, interview preparation, or showcasing front-end development skills.
 
----
+
 
 ## Features
 
